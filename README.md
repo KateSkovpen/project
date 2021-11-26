@@ -1,2 +1,1 @@
-# project
-Сайт ИГН АлтГУ
+# selenium
